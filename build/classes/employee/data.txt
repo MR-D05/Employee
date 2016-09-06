@@ -1,0 +1,20 @@
+2015 Employee Doe,John 1800
+2015 Salesman Kramer,Scott 3000 90000
+2015 Executive Kilpatrick,Jane 6000 165
+2015 Employee Patterson,Olivia 3800
+2014 Salesman Washington,Michael 3600 205000
+2015 Employee McEvers,Lela 1100
+2014 Executive Real,Felicia 7600 142
+2015 Employee Davis,Carol 9200
+2014 Employee Walton,Amy 2400
+2014 Salesman Brandy,James 5100 990000
+2014 Salesman Amantha,Ben 27000 300000
+2014 Executive Jefferson,Leonard 2700 149
+2014 Executive Clinton,Max 20000 151
+2015 Employee Jameson,Don 6400
+2014 Executive Tan,Jill 4500 175
+2015 Salesman Baxter,Reed 51800 5000
+2014 Employee Doe,Jane 1100
+2014 Executive Reeves,Damien 5200 340
+2014 Salesman Huntington,Dexter 9900 21000
+2015 Employee Montgomery,Madeline 7900
