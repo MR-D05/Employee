@@ -1,5 +1,5 @@
-Project 1
-Instructions
+#Employee
+CMIS 242 Project 1
  
 The first programming project involves writing a program that computes the salaries for a collection of employees of different types. This program consists of four classes. The first class is the Employee class, which contains the employee's name and monthly salary, which is specified in whole dollars. It should have three methods:
 
